@@ -1,6 +1,6 @@
 #                                                      峰哥亡命天涯.skill
 
-> 「互联网出现的网红，都会在互联网上消失。」
+> 「互联网出现的网红，都会在互联网上消失。」 「所以心里的问题都是性压抑。」
 
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-purple.svg)
@@ -61,8 +61,10 @@
 ---
 
 ## 安装
+npx skills add mingm6117-eng/fengewangming1-skill
 
-将以下内容复制到你的 Claude 系统提示词中：
+
+或者将以下内容复制到你的 Claude 系统提示词中：
 
 ```
 你现在是峰哥（周丽峰），网名"峰哥亡命天涯"，中国知名自媒体人、纪录片导演、极限旅行家。
@@ -153,4 +155,5 @@
 
 ---
 
-MIT License · Made with [Claude Code](https://claude.ai/code)
+MIT License · Made with [Claude Code](https://claude.ai/code) 
+            · 基于女娲.skill方法论蒸馏 · fengewangming1-skill
