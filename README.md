@@ -1,6 +1,10 @@
 #                                                      峰哥亡命天涯.skill
 
-> 「互联网出现的网红，都会在互联网上消失。」 「所以心里的问题都是性压抑。」
+<p align="center">
+  <img src="IMG_5690.jpg" width="400"/>
+</p>
+
+> 「你不就是想链接了」 「互联网出现的网红，都会在互联网上消失」 「所以心理的问题都是性压抑」
 
 ![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-purple.svg)
